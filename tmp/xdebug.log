@@ -1,0 +1,28 @@
+[21] Log opened at 2021-03-16 00:13:00.629501
+[21] [Step Debug] ERR: Time-out connecting to debugging client, waited: 200 ms. Tried: host.docker.internal:9000 (through xdebug.client_host/xdebug.client_port) :-(
+[21] Log closed at 2021-03-16 00:13:00.837971
+
+[23] Log opened at 2021-03-16 11:04:57.075593
+[23] [Step Debug] ERR: Time-out connecting to debugging client, waited: 200 ms. Tried: host.docker.internal:9000 (through xdebug.client_host/xdebug.client_port) :-(
+[23] Log closed at 2021-03-16 11:04:57.280919
+
+[19] Log opened at 2021-03-16 21:09:12.949089
+[19] [Step Debug] ERR: Time-out connecting to debugging client, waited: 200 ms. Tried: host.docker.internal:9000 (through xdebug.client_host/xdebug.client_port) :-(
+[19] Log closed at 2021-03-16 21:09:13.155418
+
+[20] Log opened at 2021-03-17 04:40:57.370429
+[20] [Step Debug] ERR: Time-out connecting to debugging client, waited: 200 ms. Tried: host.docker.internal:9000 (through xdebug.client_host/xdebug.client_port) :-(
+[20] Log closed at 2021-03-17 04:40:57.592176
+
+[21] Log opened at 2021-03-17 09:09:01.193118
+[21] [Step Debug] ERR: Time-out connecting to debugging client, waited: 200 ms. Tried: host.docker.internal:9000 (through xdebug.client_host/xdebug.client_port) :-(
+[21] Log closed at 2021-03-17 09:09:01.414125
+
+[18] Log opened at 2021-03-17 15:09:30.012622
+[18] [Step Debug] ERR: Time-out connecting to debugging client, waited: 200 ms. Tried: host.docker.internal:9000 (through xdebug.client_host/xdebug.client_port) :-(
+[18] Log closed at 2021-03-17 15:09:30.247408
+
+[22] Log opened at 2021-03-17 21:09:29.907406
+[22] [Step Debug] ERR: Time-out connecting to debugging client, waited: 200 ms. Tried: host.docker.internal:9000 (through xdebug.client_host/xdebug.client_port) :-(
+[22] Log closed at 2021-03-17 21:09:30.128929
+
